@@ -49,7 +49,11 @@ class hw_3 {
       System.out.println();
     }
    }
+<<<<<<< Updated upstream
   }
 
 
 
+=======
+  }
+>>>>>>> Stashed changes
